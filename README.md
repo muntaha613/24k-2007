@@ -12,5 +12,5 @@
 12
 13 - 💫I like having collection of books.
 14
-15 https://pin.it/2IUplxopC
+15 https://images.app.goo.gl/9EME2zULaVUi2F3RA
 
