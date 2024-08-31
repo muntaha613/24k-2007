@@ -1,16 +1,16 @@
-1 # 24k-2007
-2 ## Sidratun Muntaha
-3 ### LAB 2
-4 
-5 - ✨Hey, I'm Sidratun Muntaha.
-6
-7 - 💥I'm interested in coding.
-8
-9 - 🔥I'm currently learning to code.
-10
-11 - 🌟My hobby playing games like word search and puzzles.
-12
-13 - 💫I like having collection of books.
-14
-15 https://images.app.goo.gl/9EME2zULaVUi2F3RA
+ # 24k-2007
+ ## Sidratun Muntaha
+ ### LAB 2
+ 
+ - ✨Hey, I'm Sidratun Muntaha.
+
+ - 💥I'm interested in coding.
+
+ - 🔥I'm currently learning to code.
+
+ - 🌟My hobby playing games like word search and puzzles.
+
+ - 💫I like having collection of books.
+
+ https://images.app.goo.gl/9EME2zULaVUi2F3RA
 
