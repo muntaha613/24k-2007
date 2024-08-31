@@ -12,7 +12,8 @@
 
  - 💫I like having collection of books.
 
- https://images.app.goo.gl/9EME2zULaVUi2F3RA
+ ![WhatsApp Image 2024-08-31 at 4 31 51 AM](https://github.com/user-attachments/assets/ed1e5e35-0042-4455-89fa-38a1beaa66d5)
+
 
 ### ***Objective 2: Pseudocode*** 
 **TASK 02**
