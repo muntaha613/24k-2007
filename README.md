@@ -14,6 +14,9 @@
 
  ![WhatsApp Image 2024-08-31 at 4 31 51 AM](https://github.com/user-attachments/assets/ed1e5e35-0042-4455-89fa-38a1beaa66d5)
 
+### ***Objective 1: Flow Chart***
+![lab 2 flowchart (1)](https://github.com/user-attachments/assets/8f8d7b72-7d31-4358-9fd9-3a01a2f2b276)
+
 
 ### ***Objective 2: Pseudocode*** 
 **TASK 02**
