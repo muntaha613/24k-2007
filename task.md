@@ -25,7 +25,7 @@ Ask the user to enter number n.
 Ask the user to enter Nth.
 Divide Nth by number n if the remainder is zero then Nth is the divisor.
 Divide Nth by 2 if remainder is zero then Nth is even otherwise Nth is odd.
-## TASK 03
+## TASK 02
 
 Ask the user to enter number A.
 Ask the user to enter number B.
